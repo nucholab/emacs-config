@@ -8,8 +8,16 @@ I use emacs, which might be thought of as a thermonuclear word processor [...] e
 This repo is to build my Emacs configuration. The plan is to start with the simplest vanilla config and gradually add features.
 
 ** How to use
-Currently I'm using the "legacy" config contained in my dotfiles. Starting with Emacs 29, it is easy to run different configs so I start this one with:
+Currently I'm using the "legacy" config contained in my dotfiles by defailt. Starting with Emacs 29, it is easy to run different configs so I start the one in this repo with:
 #+begin_src sh
 emacs --init-directory ~/code/nucholab/emacs-config &
 #+end_src
 Where that argument is the path to where I've cloned this repo. For using the terminal version of this config I end the command with the =-nw= flag instead of the =&=.
+
+* Sources of study and inspiration
+** Tutorials and descriptions
+   - [ ] System Crafters' [[https://systemcrafters.net/emacs-from-scratch/][Emacs from Scratch]] series
+   - [ ] Peter Prevos' [[https://lucidmanager.org/productivity/configure-emacs/][Configure Emacs]] series
+** Other people's configurations
+   - [[https://github.com/Lambda-Emacs][Lambda Emacs]]
+   - [[https://github.com/tecosaur/emacs-config][tecosaur]]
