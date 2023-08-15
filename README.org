@@ -15,9 +15,19 @@ emacs --init-directory ~/code/nucholab/emacs-config &
 Where that argument is the path to where I've cloned this repo. For using the terminal version of this config I end the command with the =-nw= flag instead of the =&=.
 
 * Sources of study and inspiration
-** Tutorials and descriptions
+** Tutorials, books, and descriptions
    - [ ] System Crafters' [[https://systemcrafters.net/emacs-from-scratch/][Emacs from Scratch]] series
    - [ ] Peter Prevos' [[https://lucidmanager.org/productivity/configure-emacs/][Configure Emacs]] series
+   - [ ] Mike Zamansky's [[https://cestlaz.github.io/stories/emacs/][Using Emacs]] series [/81]
+   - [ ] Zzambinu's configuration [[https://zzamboni.org/post/my-emacs-configuration-with-commentary/][comments]]
+   - [ ] [[https://www.masteringemacs.org/][Mastering Emacs]] book and blog
+   
 ** Other people's configurations
    - [[https://github.com/Lambda-Emacs][Lambda Emacs]]
    - [[https://github.com/tecosaur/emacs-config][tecosaur]]
+   - [[https://github.com/rougier/nano-emacs][NANO Emacs]]
+   - [[https://github.com/novoid/dot-emacs][Karl Voit's config]]
+   - [[https://github.com/jkitchin/scimax][Scimax]]
+   - [[https://github.com/overtone/emacs-live][Emacs Live]]
+   - [[https://git.sr.ht/~technomancy/better-defaults][better-defaults]]
+   - see other configs [[https://github.com/caisah/emacs.dz][here]].
