@@ -1,0 +1,15 @@
+#+title: Building my Ultimate Emacs Configuration
+#+author: nucholab
+
+#+begin_quote
+I use emacs, which might be thought of as a thermonuclear word processor [...] emacs outshines all other editing software in approximately the same way that the noonday sun does the stars. It is not just bigger and brighter; it simply makes everything else vanish. ---Neal Stephenson
+#+end_quote
+
+This repo is to build my Emacs configuration. The plan is to start with the simplest vanilla config and gradually add features.
+
+** How to use
+Currently I'm using the "legacy" config contained in my dotfiles. Starting with Emacs 29, it is easy to run different configs so I start this one with:
+#+begin_src sh
+emacs --init-directory ~/code/nucholab/emacs-config &
+#+end_src
+Where that argument is the path to where I've cloned this repo. For using the terminal version of this config I end the command with the =-nw= flag instead of the =&=.
