@@ -20,3 +20,7 @@
 ;; Disable menu bar only on CLI frames
 (when (not (display-graphic-p))
   (menu-bar-mode -1))
+
+;; Mac keyboard bindings
+(setq mac-option-modifier 'meta)
+;; TODO check that this is irrelevant in Linux emacs
