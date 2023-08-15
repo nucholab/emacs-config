@@ -12,3 +12,11 @@
 
 ;; Load dark Modus theme
 (load-theme 'modus-vivendi t)
+
+;; Disable unwanted UI elements
+(tool-bar-mode -1)
+(scroll-bar-mode -1)
+
+;; Disable menu bar only on CLI frames
+(when (not (display-graphic-p))
+  (menu-bar-mode -1))
