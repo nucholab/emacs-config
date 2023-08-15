@@ -40,7 +40,7 @@ Where that argument is the path to where I've cloned this repo. For using the te
    - [[https://git.sr.ht/~technomancy/better-defaults][better-defaults]]
    - see other configs [[https://github.com/caisah/emacs.dz][here]].
 
-* Why do this?
+** Why do this?
 #+begin_quote
 [...]
 
