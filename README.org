@@ -5,7 +5,7 @@
 I use emacs, which might be thought of as a thermonuclear word processor [...] emacs outshines all other editing software in approximately the same way that the noonday sun does the stars. It is not just bigger and brighter; it simply makes everything else vanish. ---Neal Stephenson
 #+end_quote
 
-This repo is to build my Emacs configuration. The plan is to start with the simplest vanilla config and gradually add [[file:progression_plan.org][features]].
+This repo is to build my Emacs configuration. The plan is to start with the simplest vanilla config and gradually add [[file:progression_plan.org][features]]. Note that this configuration will, at least at first, assume Emacs version >= 29. For example, assuming that =modus themes=, =eglot=, and =use-packages= are built-in.
 
 ** How to use
 Currently I'm using the "legacy" config contained in my dotfiles by defailt. Starting with Emacs 29, it is easy to run different configs so I start the one in this repo with:
