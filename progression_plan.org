@@ -1,0 +1,9 @@
+#+title: Progression plan for features of Emacs Configuration
+#+author: nucholab
+
+
+* Example
+** Package Manager (all with use-package)
+   - package.el
+   - straight.el
+   - *elpaca*
