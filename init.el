@@ -23,4 +23,4 @@
 
 ;; Mac keyboard bindings
 (setq mac-option-modifier 'meta)
-;; TODO check that this is irrelevant in Linux emacs
+
