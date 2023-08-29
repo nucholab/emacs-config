@@ -28,7 +28,7 @@ Where that argument is the path to where I've cloned this repo. For using the te
    - [ ] Minimal setup [[https://blog.rwhitedwarf.com/post/use_emacs_for_r/][for R]]
    - [ ] ESS [[https://ess.r-project.org/][documentation]]
    - [ ] [[https://tess.oconnor.cx/2009/07/learn-emacs-in-ten-years][Learn Emacs in 10 years]]
-   - [ ] Distrotube [[https://www.youtube.com/watch?v=4ZH9pobulDo&list=PL5--8gKSku15uYCnmxWPO17Dq6hVabAB4][video series]]
+   - [ ] Distrotube [[https://www.youtube.com/watch?v=4ZH9pobulDo&list=PL5--8gKSku15uYCnmxWPO17Dq6hVabAB4][video series]] (Derek Taylor)
 
 ** Other people's configurations
    - [[https://github.com/Lambda-Emacs][Lambda Emacs]]
@@ -38,6 +38,7 @@ Where that argument is the path to where I've cloned this repo. For using the te
    - [[https://github.com/jkitchin/scimax][Scimax]]
    - [[https://github.com/overtone/emacs-live][Emacs Live]]
    - [[https://git.sr.ht/~technomancy/better-defaults][better-defaults]]
+   - Derek Taylor's [[https://gitlab.com/dwt1/configuring-emacs][Configuring Emacs]]
    - see other configs [[https://github.com/caisah/emacs.dz][here]].
 
 ** Why do this?
