@@ -8,7 +8,7 @@ I use emacs, which might be thought of as a thermonuclear word processor [...] e
 This repo is to build my Emacs configuration. The plan is to start with the simplest vanilla config and gradually add [[file:progression_plan.org][features]]. Note that this configuration will, at least at first, assume Emacs version >= 29. For example, assuming that =modus themes=, =eglot=, and =use-packages= are built-in.
 
 ** How to use
-Currently I'm using the "legacy" config contained in my dotfiles by defailt. Starting with Emacs 29, it is easy to run different configs so I start the one in this repo with:
+Currently I'm using the "legacy" config contained in my dotfiles by default. Starting with Emacs 29, it is easy to run different configs so I start the one in this repo with:
 #+begin_src sh
 emacs --init-directory ~/code/nucholab/emacs-config &
 #+end_src
@@ -38,6 +38,7 @@ Where that argument is the path to where I've cloned this repo. For using the te
    - [[https://github.com/jkitchin/scimax][Scimax]]
    - [[https://github.com/overtone/emacs-live][Emacs Live]]
    - [[https://git.sr.ht/~technomancy/better-defaults][better-defaults]]
+   - [[https://github.com/jeremygooch/jeremacs][jeremacs]]
    - Derek Taylor's [[https://gitlab.com/dwt1/configuring-emacs][Configuring Emacs]]
    - see other configs [[https://github.com/caisah/emacs.dz][here]].
 
